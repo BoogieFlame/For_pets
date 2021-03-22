@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363802277858",
+    "project_id": "for-pest",
+    "storage_bucket": "for-pest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363802277858:android:b1961d89c0e1c0878fabbb",
+        "android_client_info": {
+          "package_name": "com.example.for_pets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363802277858-59psji6691ictkv5af510or5e0iitvoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5BGzAdvFTDAhxUEtSQGXjdFYW0Xzru8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363802277858-59psji6691ictkv5af510or5e0iitvoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
